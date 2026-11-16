@@ -132,3 +132,4 @@ def main():
     widget = MessageBoard()
     widget.show()
 main()
+# correction
